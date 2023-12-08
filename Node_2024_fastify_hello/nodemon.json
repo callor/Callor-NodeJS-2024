@@ -1,0 +1,4 @@
+{
+  "ignore": ["src/public/*"],
+  "exec": "fastify start -l info app.js"
+}
